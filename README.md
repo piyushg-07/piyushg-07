@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Frontend dev**
 
 - 📫 How to reach me **guptapiyush315@gmail.com**
 
