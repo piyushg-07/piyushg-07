@@ -1,4 +1,4 @@
-![github-header-image (1)](github-header-image%20(1).png)
+![github-header-image (1)](github-header-image%20(11).png)
 <h1 align="center">Hi 👋, I'm Piyush gupta</h1>
 <h3 align="center">A passionate Web developer| Coder from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
