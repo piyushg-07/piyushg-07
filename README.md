@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Piyush gupta</h1>
 <h3 align="center">A passionate Web developer| Coder from India</h3>
+
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <br><br>
 <img align="right" alt="Coder GIF" height=310 width=420 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
@@ -12,6 +13,8 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piy_ushg1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushg07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piug_07) 
 <!-- <p align="left"> <a href="https://twitter.com/piug_07" target="blank"><img src="https://img.shields.io/twitter/follow/piug_07?logo=twitter&style=for-the-badge" alt="piug_07" /></a> </p> -->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **React.js**
 
