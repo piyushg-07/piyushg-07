@@ -7,14 +7,14 @@
 <br><br>
 <img align="right" alt="Coder GIF" height=310 width=420 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piug-07&label=Profile%20views&color=0e75b6&style=flat" alt="piug-07" /> </p>
 <!-- [![](https://visitcount.itsvg.in/api?id=piug-07&icon=6&color=0)](https://visitcount.itsvg.in) -->
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1545) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piy_ushg1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushg07) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/piug_07) 
 <!-- <p align="left"> <a href="https://twitter.com/piug_07" target="blank"><img src="https://img.shields.io/twitter/follow/piug_07?logo=twitter&style=for-the-badge" alt="piug_07" /></a> </p> -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **React.js**
 
