@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Web developer| Coder from India</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 <br><br>
-<img align="right" alt="Coder GIF" height=310 width=420 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<!-- <img align="right" alt="Coder GIF" height=310 width=420 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
 
 
 
