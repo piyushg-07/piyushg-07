@@ -83,7 +83,7 @@
 
 <p align="center">
  <br>
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="500"> -->
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 <br>
