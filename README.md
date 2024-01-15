@@ -65,13 +65,18 @@
 </p>
 
 
-
+<!--
 <p align="center">
   <img 
     width="left"   
     src="https://github-readme-stats.vercel.app/api/top-langs?username=piug-07&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
     alt="piug-07"
   />
+</p>
+-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piug-07&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="piug-07" />
 </p>
 
 
