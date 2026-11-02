@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://piyushg07-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0b0f19?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/piyushg07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/piug_07"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/piyushg_07"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:guptapiyush315@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://discord.gg/1545"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://komarev.com/ghpvc/?username=piyushg-07&label=Views&color=818cf8&style=flat-square" alt="Profile views" />
