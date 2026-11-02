@@ -12,7 +12,10 @@
   <a href="https://x.com/piyushg_07"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:guptapiyush315@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://discord.com/users/1026611702596386878"><img src="https://img.shields.io/badge/Discord-piyushg__07-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: piyushg_07" title="Discord: piyushg_07" /></a>
-  <img src="https://komarev.com/ghpvc/?username=piyushg-07&label=Views&color=818cf8&style=flat-square" alt="Profile views" />
+  <!-- Profile views: hidden 0x0 image keeps counting. When the number is worth showing,
+       delete the hidden line and uncomment the visible badge below. -->
+  <img src="https://komarev.com/ghpvc/?username=piyushg-07&label=Views&color=818cf8&style=flat-square" width="0" height="0" alt="" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=piyushg-07&label=Views&color=818cf8&style=flat-square" alt="Profile views" /> -->
 </p>
 
 ---
@@ -25,17 +28,17 @@ I'm an **AI Engineer and Product Engineer** from India with **2+ years** of turn
 
 For me, launch day isn't the finish line, it's the starting point. I listen, measure and iterate until the product earns its place in people's daily lives.
 
-- 🤖 **Now:** building RAG pipelines, AI agents and LLM-backed web apps
-- 🧱 **Learning:** backend architecture and system design at scale
-- 🌍 **Open source:** always happy to collaborate. Reach out if you have something interesting
-- 💬 **Ask me about:** AI agents, LLM apps and product engineering
-- 📫 **Reach me:** [guptapiyush315@gmail.com](mailto:guptapiyush315@gmail.com)
+- <img src="./icons/about/now.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;**Now:** building RAG pipelines, AI agents and LLM-backed web apps
+- <img src="./icons/about/learning.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;**Learning:** backend architecture and system design at scale
+- <img src="./icons/about/opensource.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;**Open source:** always happy to collaborate. Reach out if you have something interesting
+- <img src="./icons/about/ask.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;**Ask me about:** AI agents, LLM apps and product engineering
+- <img src="./icons/about/mail.svg" width="18" height="18" align="absmiddle" alt="" /> &nbsp;**Reach me:** [guptapiyush315@gmail.com](mailto:guptapiyush315@gmail.com)
 
 ---
 
 ## Tech stack
 
-### 🧠 AI & LLM engineering
+### AI & LLM engineering
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
@@ -57,7 +60,7 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
 <summary><kbd>&nbsp;View full tech stack&nbsp;</kbd></summary>
 <br />
 
-#### 📊 ML & data
+#### ML & data
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="ML" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
@@ -69,37 +72,37 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwLjUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2LjUiIHN0cm9rZS1vcGFjaXR5PSIuNiIvPjxwYXRoIGQ9Ik0xMiAxMkwxMiAxLjVBMTAuNSAxMC41IDAgMCAxIDIxLjYgNy44WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTIgMTJMNC4yIDE5QTEwLjUgMTAuNSAwIDAgMSAyLjMgMTVaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIuNyIvPjxwYXRoIGQ9Ik0xMiAxMkwxOCAyMC42QTEwLjUgMTAuNSAwIDAgMSAxNCAyMi4zWiIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iLjUiLz48L3N2Zz4%3D" alt="Matplotlib" />
 </p>
 
-#### 💻 Languages
+#### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,php&theme=dark" alt="Languages" />
 </p>
 
-#### 🎨 Frontend
+#### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,sass,bootstrap,threejs,jquery&theme=dark" alt="Frontend" /><img src="./icons/tanstack.svg" alt="TanStack" title="TanStack" /><img src="./icons/zustand.svg" alt="Zustand" title="Zustand" /><img src="./icons/socketio.svg" alt="Socket.IO" title="Socket.IO" /><img src="./icons/webrtc.svg" alt="WebRTC" title="WebRTC" /><img src="./icons/turborepo.svg" alt="Turborepo" title="Turborepo (monorepo)" />
 </p>
 
-#### ⚙️ Backend
+#### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastapi,flask,django,graphql,prisma&theme=dark" alt="Backend" /><img src="./icons/fastify.svg" alt="Fastify" title="Fastify" /><img src="./icons/drizzle.svg" alt="Drizzle ORM" title="Drizzle ORM" />
 </p>
 
-#### 📱 Mobile
+#### Mobile
 <p>
   <img src="./icons/reactnative.svg" alt="React Native" title="React Native" /><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /><img src="./icons/expo.svg" alt="Expo" title="Expo" />
 </p>
 
-#### 🗄️ Databases
+#### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark" alt="Databases" />
 </p>
 
-#### ☁️ Cloud & DevOps
+#### Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,cloudflare,linux,git,vercel,netlify&theme=dark" alt="Cloud & DevOps" />
 </p>
 
-#### 🛠️ Tools
+#### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,figma,notion,blender&theme=dark" alt="Tools" />
 </p>
