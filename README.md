@@ -42,7 +42,7 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangSmith" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxbDIuMiAyLjYtMi4yIDEuMy0yLjItMS4zeiIvPjxwYXRoIGQ9Ik04LjYgNS4zTDEyIDcuMmwzLjQtMS45IDEuNiAzLjJMMTIgMTEuMyA3IDguNXoiLz48cGF0aCBkPSJNNi4zIDEwLjJMMTIgMTMuNGw1LjctMy4yIDEuMiAzLjRMMTIgMTcuNWwtNi45LTMuOXoiLz48cGF0aCBkPSJNNS42IDE1LjZMMTIgMTkuM2w2LjQtMy43LTEuNSAzLjZMMTIgMjJsLTQuOS0yLjh6Ii8%2BPC9zdmc%2B" alt="Pinecone" />
@@ -53,7 +53,11 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
   <sub><b>Patterns:</b> RAG · Embeddings & vector search · Tool calling & agents · Prompt engineering · Evals · Streaming UIs</sub>
 </p>
 
-### 📊 ML & data
+<details>
+<summary><img src="./icons/stack-button.svg" alt="▶ Click to expand the full tech stack" height="56" /></summary>
+<br />
+
+#### 📊 ML & data
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="ML" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
@@ -65,40 +69,42 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwLjUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2LjUiIHN0cm9rZS1vcGFjaXR5PSIuNiIvPjxwYXRoIGQ9Ik0xMiAxMkwxMiAxLjVBMTAuNSAxMC41IDAgMCAxIDIxLjYgNy44WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTIgMTJMNC4yIDE5QTEwLjUgMTAuNSAwIDAgMSAyLjMgMTVaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIuNyIvPjxwYXRoIGQ9Ik0xMiAxMkwxOCAyMC42QTEwLjUgMTAuNSAwIDAgMSAxNCAyMi4zWiIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iLjUiLz48L3N2Zz4%3D" alt="Matplotlib" />
 </p>
 
-### 💻 Languages
+#### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,php&theme=dark" alt="Languages" />
 </p>
 
-### 🎨 Frontend
+#### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,sass,bootstrap,threejs,jquery&theme=dark" alt="Frontend" /><img src="./icons/tanstack.svg" alt="TanStack" title="TanStack" /><img src="./icons/zustand.svg" alt="Zustand" title="Zustand" /><img src="./icons/socketio.svg" alt="Socket.IO" title="Socket.IO" /><img src="./icons/webrtc.svg" alt="WebRTC" title="WebRTC" /><img src="./icons/turborepo.svg" alt="Turborepo" title="Turborepo (monorepo)" />
 </p>
 
-### ⚙️ Backend
+#### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,bun,fastapi,flask,django,graphql,prisma&theme=dark" alt="Backend" /><img src="./icons/fastify.svg" alt="Fastify" title="Fastify" /><img src="./icons/drizzle.svg" alt="Drizzle ORM" title="Drizzle ORM" />
 </p>
 
-### 📱 Mobile
+#### 📱 Mobile
 <p>
   <img src="./icons/reactnative.svg" alt="React Native" title="React Native" /><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /><img src="./icons/expo.svg" alt="Expo" title="Expo" />
 </p>
 
-### 🗄️ Databases
+#### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark" alt="Databases" />
 </p>
 
-### ☁️ Cloud & DevOps
+#### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,cloudflare,linux,git,vercel,netlify&theme=dark" alt="Cloud & DevOps" />
 </p>
 
-### 🛠️ Tools
+#### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,figma,notion,blender&theme=dark" alt="Tools" />
 </p>
+
+</details>
 
 ---
 
