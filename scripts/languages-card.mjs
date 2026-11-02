@@ -1,4 +1,4 @@
-// Builds languages.svg: every language you've committed in, weighted by commit count.
+// Builds languages.svg: top languages you've committed in, weighted by commit count.
 // Runs in GitHub Actions (see .github/workflows/languages.yml). Needs GITHUB_TOKEN.
 import { writeFileSync } from "node:fs";
 
@@ -54,13 +54,18 @@ export async function collect() {
 }
 
 const esc = (s) => s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+const short = (n) => (n === "Jupyter Notebook" ? "Jupyter" : n.length > 10 ? n.slice(0, 9) + "…" : n);
 const pct = (p) => (p < 0.1 ? "<0.1%" : `${p.toFixed(1)}%`);
 
-export function render(langs) {
-  const W = 800, PAD = 25, COLS = 3, ROW = 28, LIST_Y = 108;
-  const total = langs.reduce((n, l) => n + l.count, 0) || 1;
-  const rows = Math.ceil(langs.length / COLS);
-  const H = LIST_Y + rows * ROW + 6;
+export function render(all) {
+  // Narrow card, same height as the summary-cards stats card (200) so they sit side by side.
+  const W = 270, H = 200, PAD = 18, COLS = 2, ROW = 26, LIST_Y = 96, MAX = 8;
+  const total = all.reduce((n, l) => n + l.count, 0) || 1;
+  let langs = all.slice(0, MAX);
+  if (all.length > MAX) {
+    const rest = all.slice(MAX - 1).reduce((n, l) => n + l.count, 0);
+    langs = [...all.slice(0, MAX - 1), { name: "Other", color: "#565f89", count: rest }];
+  }
   const colW = (W - PAD * 2) / COLS;
   const barW = W - PAD * 2;
 
@@ -68,7 +73,7 @@ export function render(langs) {
   const bar = langs
     .map((l) => {
       const w = (l.count / total) * barW;
-      const seg = `<rect x="${x.toFixed(2)}" y="64" width="${w.toFixed(2)}" height="10" fill="${l.color}"/>`;
+      const seg = `<rect x="${x.toFixed(2)}" y="54" width="${w.toFixed(2)}" height="8" fill="${l.color}"/>`;
       x += w;
       return seg;
     })
@@ -78,22 +83,20 @@ export function render(langs) {
     .map((l, i) => {
       const cx = PAD + (i % COLS) * colW;
       const cy = LIST_Y + Math.floor(i / COLS) * ROW;
-      return `<g transform="translate(${cx.toFixed(2)} ${cy})"><circle cx="6" cy="-5" r="6" fill="${l.color}"/><text x="20" y="0" class="n">${esc(l.name)}</text><text x="${(colW - 20).toFixed(2)}" y="0" class="p" text-anchor="end">${esc(pct((l.count / total) * 100))}</text></g>`;
+      return `<g transform="translate(${cx.toFixed(2)} ${cy})"><circle cx="4" cy="-4" r="4" fill="${l.color}"/><text x="13" y="0" class="n">${esc(short(l.name))}</text><text x="${(colW - 10).toFixed(2)}" y="0" class="p" text-anchor="end">${esc(pct((l.count / total) * 100))}</text></g>`;
     })
     .join("");
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Languages by commit">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Top languages">
 <style>
   text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
-  .t { font-size: 18px; font-weight: 600; fill: #70A5FD; }
-  .s { font-size: 13px; fill: #787C99; }
-  .n { font-size: 14px; fill: #A9B1D6; }
-  .p { font-size: 13px; fill: #787C99; }
+  .t { font-size: 15px; font-weight: 600; fill: #70A5FD; }
+  .n { font-size: 11px; fill: #A9B1D6; }
+  .p { font-size: 11px; fill: #787C99; }
 </style>
-<rect width="${W}" height="${H}" rx="8" fill="#1A1B27"/>
-<text x="${PAD}" y="40" class="t">Languages by Commit</text>
-<text x="${W - PAD}" y="40" class="s" text-anchor="end">${langs.length} languages · ${total.toLocaleString("en-US")} commits</text>
-<clipPath id="bar"><rect x="${PAD}" y="64" width="${barW}" height="10" rx="5"/></clipPath>
+<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="#1A1B27"/>
+<text x="${PAD}" y="34" class="t">Top Languages</text>
+<clipPath id="bar"><rect x="${PAD}" y="54" width="${barW}" height="8" rx="4"/></clipPath>
 <g clip-path="url(#bar)">${bar}</g>
 ${items}
 </svg>

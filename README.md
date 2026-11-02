@@ -106,11 +106,11 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushg-07&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=piyushg-07&hide_border=true&background=1A1B27&ring=818cf8&fire=e879f9&currStreakLabel=818cf8&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b&stroke=2a2e45" alt="GitHub streak" />
+  <img height="180" src="./languages.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="./languages.svg" alt="Languages by commit" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=piyushg-07&hide_border=true&background=1A1B27&ring=818cf8&fire=e879f9&currStreakLabel=818cf8&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b&stroke=2a2e45" alt="GitHub streak" />
 </p>
 
 ---
