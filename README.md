@@ -45,7 +45,7 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
   <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxbDIuMiAyLjYtMi4yIDEuMy0yLjItMS4zeiIvPjxwYXRoIGQ9Ik04LjYgNS4zTDEyIDcuMmwzLjQtMS45IDEuNiAzLjJMMTIgMTEuMyA3IDguNXoiLz48cGF0aCBkPSJNNi4zIDEwLjJMMTIgMTMuNGw1LjctMy4yIDEuMiAzLjRMMTIgMTcuNWwtNi45LTMuOXoiLz48cGF0aCBkPSJNNS42IDE1LjZMMTIgMTkuM2w2LjQtMy43LTEuNSAzLjZMMTIgMjJsLTQuOS0yLjh6Ii8%2BPC9zdmc%2B" alt="Pinecone" />
   <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
   <img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
 </p>
@@ -62,7 +62,7 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
   <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjYiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwLjUiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI2LjUiIHN0cm9rZS1vcGFjaXR5PSIuNiIvPjxwYXRoIGQ9Ik0xMiAxMkwxMiAxLjVBMTAuNSAxMC41IDAgMCAxIDIxLjYgNy44WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTIgMTJMNC4yIDE5QTEwLjUgMTAuNSAwIDAgMSAyLjMgMTVaIiBmaWxsPSJ3aGl0ZSIgZmlsbC1vcGFjaXR5PSIuNyIvPjxwYXRoIGQ9Ik0xMiAxMkwxOCAyMC42QTEwLjUgMTAuNSAwIDAgMSAxNCAyMi4zWiIgZmlsbD0id2hpdGUiIGZpbGwtb3BhY2l0eT0iLjUiLz48L3N2Zz4%3D" alt="Matplotlib" />
 </p>
 
 ### 💻 Languages
@@ -82,7 +82,7 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
 
 ### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter&theme=dark" alt="React Native, Flutter" /><img src="./icons/expo.svg" alt="Expo" title="Expo" />
+  <img src="./icons/reactnative.svg" alt="React Native" title="React Native" /><img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" /><img src="./icons/expo.svg" alt="Expo" title="Expo" />
 </p>
 
 ### 🗄️ Databases
