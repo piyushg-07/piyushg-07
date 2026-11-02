@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="198" viewBox="0 0 800 198" role="img" aria-label="Languages by commit">
+<style>
+  text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .t { font-size: 18px; font-weight: 600; fill: #70A5FD; }
+  .s { font-size: 13px; fill: #787C99; }
+  .n { font-size: 14px; fill: #A9B1D6; }
+  .p { font-size: 13px; fill: #787C99; }
+</style>
+<rect width="800" height="198" rx="8" fill="#1A1B27"/>
+<text x="25" y="40" class="t">Languages by Commit</text>
+<text x="775" y="40" class="s" text-anchor="end">9 languages · 845 commits</text>
+<clipPath id="bar"><rect x="25" y="64" width="750" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="25.00" y="64" width="346.15" height="10" fill="#f1e05a"/><rect x="371.15" y="64" width="189.05" height="10" fill="#3178c6"/><rect x="560.21" y="64" width="122.49" height="10" fill="#663399"/><rect x="682.69" y="64" width="39.94" height="10" fill="#3572A5"/><rect x="722.63" y="64" width="31.07" height="10" fill="#e34c26"/><rect x="753.70" y="64" width="13.31" height="10" fill="#DA5B0B"/><rect x="767.01" y="64" width="6.21" height="10" fill="#a91e50"/><rect x="773.22" y="64" width="0.89" height="10" fill="#67b8de"/><rect x="774.11" y="64" width="0.89" height="10" fill="#f34b7d"/></g>
+<g transform="translate(25.00 108)"><circle cx="6" cy="-5" r="6" fill="#f1e05a"/><text x="20" y="0" class="n">JavaScript</text><text x="230.00" y="0" class="p" text-anchor="end">46.2%</text></g><g transform="translate(275.00 108)"><circle cx="6" cy="-5" r="6" fill="#3178c6"/><text x="20" y="0" class="n">TypeScript</text><text x="230.00" y="0" class="p" text-anchor="end">25.2%</text></g><g transform="translate(525.00 108)"><circle cx="6" cy="-5" r="6" fill="#663399"/><text x="20" y="0" class="n">CSS</text><text x="230.00" y="0" class="p" text-anchor="end">16.3%</text></g><g transform="translate(25.00 136)"><circle cx="6" cy="-5" r="6" fill="#3572A5"/><text x="20" y="0" class="n">Python</text><text x="230.00" y="0" class="p" text-anchor="end">5.3%</text></g><g transform="translate(275.00 136)"><circle cx="6" cy="-5" r="6" fill="#e34c26"/><text x="20" y="0" class="n">HTML</text><text x="230.00" y="0" class="p" text-anchor="end">4.1%</text></g><g transform="translate(525.00 136)"><circle cx="6" cy="-5" r="6" fill="#DA5B0B"/><text x="20" y="0" class="n">Jupyter Notebook</text><text x="230.00" y="0" class="p" text-anchor="end">1.8%</text></g><g transform="translate(25.00 164)"><circle cx="6" cy="-5" r="6" fill="#a91e50"/><text x="20" y="0" class="n">EJS</text><text x="230.00" y="0" class="p" text-anchor="end">0.8%</text></g><g transform="translate(275.00 164)"><circle cx="6" cy="-5" r="6" fill="#67b8de"/><text x="20" y="0" class="n">Liquid</text><text x="230.00" y="0" class="p" text-anchor="end">0.1%</text></g><g transform="translate(525.00 164)"><circle cx="6" cy="-5" r="6" fill="#f34b7d"/><text x="20" y="0" class="n">C++</text><text x="230.00" y="0" class="p" text-anchor="end">0.1%</text></g>
+</svg>
