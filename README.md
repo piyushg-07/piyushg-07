@@ -54,7 +54,7 @@ For me, launch day isn't the finish line, it's the starting point. I listen, mea
 </p>
 
 <details>
-<summary><img src="./icons/stack-button.svg" alt="▶ Click to expand the full tech stack" height="56" /></summary>
+<summary><img src="./icons/stack-button.svg" alt="▶ Click to expand the full tech stack" height="28" align="absmiddle" /></summary>
 <br />
 
 #### 📊 ML & data
